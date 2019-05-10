@@ -14,7 +14,7 @@ namespace Weihnachtsgeld
             Console.Write("Namen Eingeben: ");
             Console.Write("Alter Eingeben:");
             Console.Write("Wie Lange im Unternehmen:");
-            Console.Write("");
+            Console.Write("Bananensaft");
             string name = Convert.ToString(Console.ReadLine());
             Console.Write("\ntext");
             Console.ReadKey();
